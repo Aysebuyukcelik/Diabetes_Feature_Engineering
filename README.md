@@ -2,9 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/84872652/149599397-30bf4101-87f0-472e-ac81-e0049362d8ae.png)
 
-Çalışmanın amacı:ABD'deki Arizona Eyaleti'nin en büyük 5. şehri olan Phoenix şehrinde yaşayan 21 yaş ve üzerinde olan Pima Indian kadınlarından toplanan
-farklı veriler ile kadınların diyabet hastası olup olmadığını belirten bir veri seti elde edilmiştir.Bu veri seti için yeni bir kişi girildiğinde,
-o kişinin hasta olup olmadığını tahmin eden bir makine öğrenmesi algoritması(radom forest classifier) uygulanmak istenmektedir.
+ABD'nin Arizona Eyaleti'nin en büyük 5. şehri olan Phoenix şehrinde yaşayan yaşı 21 ve daha üzerinde olan Pima Indian kadınlarından toplanan
+farklı veriler ile kadınların diyabet hastası olup olmadığını belirten bir veri seti elde edilmiştir.
+
+Çalışmanın amacı: Elde edilen veri seti için yeni bir kişi girildiğinde, o kişinin hasta olup olmadığını tahmin eden bir makine öğrenmesi algoritması(radom forest classifier) oluşturulmak istenmektedir.
 
 Hedef değişken "Outcome" olarak belirtilmiş olup; 1 diyabet test sonucunun pozitif oluşunu, 0 ise negatif oluşunu belirtmektedir.
 
